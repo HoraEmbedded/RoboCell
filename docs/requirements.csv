@@ -1,0 +1,47 @@
+id,title,mission,test,status
+F01,Environment and robot manifest,M1,T01,planned
+F02,Clean kinematic model vs library,M2,T02,planned
+F03,Frames world base tool pick pallets,M2,T03,planned
+F04,Inverse kinematics with checks,M2,T04,planned
+F05,Jacobian and singularity diagnostic,M2,T05,planned
+F06,Quintic transfers and Cartesian approaches,M3,T06,planned
+F07,Pallet recipe targets and occupancy,M3,T07,planned
+F08,Reproducible experiments from MATLAB,M2,T08,planned
+F09,Pose consistency MATLAB vs CoppeliaSim,M5,T09,planned
+F10,Trajectory checks before execution,M3,T10,planned
+F11,Open dynamics with explicit parameters,M4,T11,planned
+F12,Control A PD plus gravity,M4,T12,planned
+F13,Control B computed torque,M4,T13,planned
+F14,Demanded vs applied torque,M4,T14,planned
+F15,Fair comparison A vs B,M4,T15,planned
+F16,Load model and disturbance tests,M4,T16,planned
+F17,Error and effort metrics,M4,T17,planned
+F18,Step convergence study,M4,T18,planned
+F19,Divergence detection,M4,T19,planned
+F20,Separate Simulink and CoppeliaSim conclusions,M4,T20,planned
+F21,Conveyor stopped before pick,M6,T21,planned
+F22,Pick and place confirmation,M6,T22,planned
+F23,Family and occupancy respected,M6,T23,planned
+F24,Incident handling,M6,T24,planned
+F25,Step id and sim time sync,M5,T25,planned
+F26,Link loss detection,M5,T26,planned
+F27,Production journal,M6,T27,planned
+F28,100 nominal manipulations,M8,T28,planned
+F29,Batch state restore,M6,T29,planned
+F30,Reproducible demo and limits sheet,M8,T30,planned
+F31,Sourced need vs hypotheses vs results,M7,T31,planned
+F32,B0 vs B1 reconfiguration,M7,T32,planned
+F33,Cadence vs 4 units per min,M7,T33,planned
+F34,Recovery and batch control,M7,T34,planned
+F35,Architecture and common dictionary,M9,T35,planned
+F36,SCADA synoptic trends history,M9,T36,planned
+F37,Alarms users audit,M9,T37,planned
+F38,OPC UA typed values,M9,T38,planned
+F39,OPC UA encrypted connection,M9,T39,planned
+F40,MQTT topics QoS retain Last Will,M9,T40,planned
+F41,MQTT TLS and ACL,M9,T41,planned
+F42,Modbus TCP registers,M9,T42,planned
+F43,Timeout exception reconnection,M9,T43,planned
+F44,Historian and replay after outage,M10,T44,planned
+F45,Stale source detection under 5 s,M10,T45,planned
+F46,SCADA request validation,M10,T46,planned
