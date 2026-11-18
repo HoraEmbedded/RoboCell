@@ -34,7 +34,7 @@ tests. See [docs/methodology.md](docs/methodology.md) and [docs/planning.md](doc
 
 | Mission | Scope | Status |
 |---|---|---|
-| M0 | Setup, method, planning | In progress |
+| M0 | Setup, method, planning | Done |
 | M1 to M8 | Robotics core, tests T01-T34 | Planned |
 | M9 to M10 | IIoT phase, tests T35-T46 | Planned |
 
