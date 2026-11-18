@@ -1,0 +1,34 @@
+# MATLAB / Simulink
+slprj/
+*.asv
+*.autosave
+*.slxc
+*.mexw64
+*.log
+.SimulinkProject/
+
+# Results: keep curated evidence, ignore raw heavy data
+results/raw/
+*.mat.bak
+
+# Secrets and certificates (never commit)
+.env
+*.pem
+*.key
+*.crt
+secrets/
+
+# Python (IIoT gateway, later)
+__pycache__/
+.venv/
+*.pyc
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/*
+!.vscode/settings.json
+
+# Large media: publish through GitHub Releases instead
+*.avi
+*.mov
