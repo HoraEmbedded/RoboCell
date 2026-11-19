@@ -32,3 +32,6 @@ Thumbs.db
 # Large media: publish through GitHub Releases instead
 *.avi
 *.mov
+
+# Local machine paths
+config/local_paths.m
