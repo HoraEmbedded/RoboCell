@@ -6,6 +6,7 @@ slprj/
 *.mexw64
 *.log
 .SimulinkProject/
+*.gif
 
 # Results: keep curated evidence, ignore raw heavy data
 results/raw/
