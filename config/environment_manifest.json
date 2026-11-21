@@ -1,0 +1,39 @@
+{
+  "timestamp": "2026-11-19 21:14:14 UTC",
+  "matlab_release": "R2024b",
+  "matlab_version": "24.2.0.2712019 (R2024b)",
+  "java": "Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode",
+  "arch": "PCWIN64",
+  "toolboxes": [
+    {
+      "name": "MATLAB",
+      "version": "24.2"
+    },
+    {
+      "name": "Robotics System Toolbox",
+      "version": "24.2"
+    },
+    {
+      "name": "Simulink",
+      "version": "24.2"
+    }
+  ],
+  "license_simulink": 1,
+  "license_robotics": 1,
+  "os": "Windows 11 Pro 64-bit",
+  "coppeliasim": {
+    "version": "4.10.0",
+    "edition": "Edu",
+    "physics": "Bullet 2.78"
+  },
+  "conventions": {
+    "units": "SI",
+    "gravity_m_s2": [
+      0,
+      0,
+      -9.81
+    ],
+    "angles": "rad"
+  },
+  "robot_model": "universalUR5 (loadrobot), body names to be completed in step 4"
+}

@@ -6,6 +6,8 @@ slprj/
 *.mexw64
 *.log
 .SimulinkProject/
+*.gif
+*.jar
 
 # Results: keep curated evidence, ignore raw heavy data
 results/raw/
@@ -32,3 +34,6 @@ Thumbs.db
 # Large media: publish through GitHub Releases instead
 *.avi
 *.mov
+
+# Local machine paths
+config/local_paths.m

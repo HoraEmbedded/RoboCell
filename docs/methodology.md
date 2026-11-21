@@ -32,7 +32,7 @@ Why not pure Agile: requirements are fixed and test-defined by the specification
 ## Risk log (initial)
 | Risk | Impact | Mitigation |
 |---|---|---|
-| Simulink vs Robotics Toolbox integration fails | High | Prove at G0, fallback 2-axis |
-| ZeroMQ stepping unstable | High | Prove at G0, fixed versions |
+| Simulink vs Robotics Toolbox integration fails | Retired | Proven at G0 with native blocks |
+| ZeroMQ stepping unstable | Retired | Proven at G0 (deviation 1e-16 s) |
 | Underestimated effort | Medium | 14-18 h reserve, weekly review |
 | Tool version drift | Medium | Freeze versions in manifest |
