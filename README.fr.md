@@ -36,7 +36,8 @@ recette. Voir [docs/methodology.md](docs/methodology.md) et [docs/planning.md](d
 | Mission | Périmètre | Statut |
 |---|---|---|
 | M0 | Cadrage, méthode, planning | Terminé |
-| M1 à M8 | Cœur robotique, tests T01-T34 | Planifié |
+| M1 | Faisabilité (G0) | Terminé |
+| M2 à M8 | Cœur robotique, tests T02-T34 | Planifié |
 | M9 à M10 | Phase IIoT, tests T35-T46 | Planifié |
 
 ## Déclaration d'honnêteté

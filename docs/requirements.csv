@@ -1,5 +1,5 @@
 id,title,mission,test,status
-F01,Environment and robot manifest,M1,T01,planned
+F01,Environment and robot manifest,M1,T01,verified
 F02,Clean kinematic model vs library,M2,T02,planned
 F03,Frames world base tool pick pallets,M2,T03,planned
 F04,Inverse kinematics with checks,M2,T04,planned
