@@ -8,3 +8,10 @@ if isfile(localFile)
     run(localFile);   % machine-specific paths (CoppeliaSim client, JeroMQ)
 end
 fprintf('RoboCell paths loaded from %s\n', root);
+
+coppelia_matlab_path = 'C:\Program Files\CoppeliaRobotics\CoppeliaSimEdu\programming\zmqRemoteApi\clients\matlab';
+if exist(coppelia_matlab_path, 'dir')
+    addpath(genpath(coppelia_matlab_path));
+else
+    warning('Dossier RemoteAPIClient introuvable : %s', coppelia_matlab_path);
+end
