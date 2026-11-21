@@ -6,7 +6,7 @@ slprj/
 *.mexw64
 *.log
 .SimulinkProject/
-*.gif
+
 *.jar
 
 # Results: keep curated evidence, ignore raw heavy data
@@ -37,3 +37,5 @@ Thumbs.db
 
 # Local machine paths
 config/local_paths.m
+# Third-party JARs (CoppeliaSim MATLAB client)
+*.jar
