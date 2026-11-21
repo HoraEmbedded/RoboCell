@@ -7,6 +7,7 @@ slprj/
 *.log
 .SimulinkProject/
 *.gif
+*.jar
 
 # Results: keep curated evidence, ignore raw heavy data
 results/raw/
